@@ -1,5 +1,3 @@
-![Vape V4 Logo](Images/vapelogo-white.png)
-
 # About Me
 
 Hey there! I'm a passionate Lua developer dedicated to keeping the Vape V4 script up and running. I enjoy working on projects that push the limits and improve the overall user experience.
@@ -16,5 +14,4 @@ Hey there! I'm a passionate Lua developer dedicated to keeping the Vape V4 scrip
 
 stars.are.perfectly.aligned on Discord
 
-![Profile Picture](Images/profile-picture.png)
 
